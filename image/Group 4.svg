@@ -1,0 +1,14 @@
+<svg width="270" height="30" viewBox="0 0 270 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="35" y1="14.3137" x2="115" y2="14.3137" stroke="white" stroke-width="4"/>
+<line x1="155" y1="14.3137" x2="235" y2="14.3137" stroke="white" stroke-width="4"/>
+<line x1="122.272" y1="26.2132" x2="144.9" y2="3.58581" stroke="white" stroke-width="4"/>
+<line x1="5.27219" y1="26.2132" x2="27.8996" y2="3.58581" stroke="white" stroke-width="4"/>
+<line x1="243.272" y1="26.2132" x2="265.9" y2="3.58581" stroke="white" stroke-width="4"/>
+<line x1="122.414" y1="3.89951" x2="145.042" y2="26.5269" stroke="white" stroke-width="4"/>
+<line x1="254" y1="30" x2="254" stroke="white" stroke-width="4"/>
+<path d="M16 30V0" stroke="white" stroke-width="4"/>
+<line x1="5.41421" y1="3.89951" x2="28.0416" y2="26.5269" stroke="white" stroke-width="4"/>
+<line x1="243.414" y1="3.89951" x2="266.042" y2="26.5269" stroke="white" stroke-width="4"/>
+<line y1="14.3137" x2="32" y2="14.3137" stroke="white" stroke-width="4"/>
+<line x1="238" y1="14.3137" x2="270" y2="14.3137" stroke="white" stroke-width="4"/>
+</svg>
