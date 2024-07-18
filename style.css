@@ -68,8 +68,7 @@ html,body{
 
  }
 
- .left h1{
-  display: ;
+.left h1{
   font-family: "Gasoek one";
   font-weight: 400;
   color: #fffb00;
@@ -80,7 +79,7 @@ html,body{
   
  }
 
-  .horizontal-line{
+.horizontal-line{
   display: flex;
   padding-top: 2.5rem;
 }
