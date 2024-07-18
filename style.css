@@ -24,7 +24,7 @@ html,body{
   /* background-color: black; */
   height:200px ;
   width: 100%;
-  gap: 5px;
+  /* gap: 5px; */
 
 }
 
@@ -32,6 +32,7 @@ html,body{
   width: 50%;
   height: 100%;
   /* background-color: #db7070; */
+  padding: 2rem;
 
  }
 
@@ -41,26 +42,27 @@ html,body{
   color: #fffb00;
   font-size: 64px;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  line-height:9vh;
+  /* letter-spacing: 3px; */
   
  }
 
  .Right{
    /* background-color: #dfbaba; */
-   width: 50%;
+   width:50%;
    height: 100%;
  }
 
  .Right p{
   Color: #fffde3;
-  padding-top: 6vh;
-  padding-right: 8vw;
+  padding-top: 8vh;
+  padding-right: 10vw;
   text-align: right;
   line-height: 1.6em;
   letter-spacing: 0.4em;
   font-weight: 300;
   font-family: "ibm plex sans";
-  font-size: 18px;
+  font-size: 15px;
   /* width: 18rem; */
  }
  
