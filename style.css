@@ -62,6 +62,8 @@ html,body{
   font-family: "ibm plex sans";
   font-size: 18px;
   /* width: 18rem; */
-
-
+ }
+ 
+ #text-bold{
+  font-weight: bold;
  }
