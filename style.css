@@ -69,6 +69,7 @@ html,body{
  }
 
  .left h1{
+  display: ;
   font-family: "Gasoek one";
   font-weight: 400;
   color: #fffb00;
@@ -77,6 +78,19 @@ html,body{
   line-height:9vh;
   /* letter-spacing: 3px; */
   
+ }
+
+  .horizontal-line{
+  display: flex;
+  padding-top: 2.5rem;
+}
+
+.apparel{
+  position: absolute;
+  left: 25.5rem;
+  top: 12.5rem;
+  display: flex;
+  align-items: center;
  }
 
  .Right{
