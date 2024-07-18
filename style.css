@@ -15,7 +15,7 @@ html,body{
   /* background-color: red; */
   /* display: flex; */
   width: 70%;
-  height: 100vh;
+  height: 100%;
   margin: auto;
 }
 
@@ -72,7 +72,7 @@ html,body{
  .second-section  {
   /* background-color: greenyellow; */
   display:flex;
-  height: 100%;
+  height: 70vh;
   width: 100%;
   margin-top: 10px;
   gap: 1.5rem ;
@@ -107,6 +107,7 @@ html,body{
   color: #fffde3;
   margin-top: 15px;
   margin-bottom: 15px;
+  /* width: 18em; */
  
  }
 
@@ -114,7 +115,7 @@ html,body{
   font-family: "ibm plex sans";
   color: #fffde3;
   font-size: 13px;
- }
+  }
 
  #para-2{
   font-family: "ibm plex sans";
@@ -127,7 +128,7 @@ html,body{
 /* right  */
 
  .disclaimer-right{
-  width: 70%;
+  width: 60%;
   height: 100vh;
   /* background-color: pink;   */
  }
@@ -142,13 +143,14 @@ html,body{
  .disclaimer-right img{
   object-fit: cover;
   width: 100%;
-  height:80% ;
+  height:70% ;
 
  }
 
  /* third section  */
 
  .third-section{
+  margin-top: 1.5rem;
   display: flex;
    /* background-color: grey; */
    width: 100%;
@@ -157,27 +159,27 @@ html,body{
  }
 
  .third-sec-left{
-  background-color: red;
-  width: 70%;
+  /* background-color: red; */
+  width: 60%;
   height: 100%;
  }
 
  .third-sec-left img{
   width: 100%;
   height: 50%;
-  object-fit: contain;
+  object-fit: cover;
   object-position: center;
  }
 
  .third-sec-right{
   /* background-color: yellow; */
-  width: 30%;
+  width: 40%;
   height: 100%;
  }
 
  .third-sec-right img{
   width: 100%;
   height: 50%;
-  object-fit: contain;
+  object-fit: cover;
   object-position: center;
  }
