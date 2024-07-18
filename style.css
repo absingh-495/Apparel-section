@@ -14,7 +14,7 @@ html,body{
 .main-container {
   /* background-color: red; */
   /* display: flex; */
-  width: 95%;
+  width: 70%;
   height: 100vh;
   margin: auto;
 }
@@ -31,7 +31,7 @@ html,body{
   width: 50%;
   height: 100%;
   /* background-color: #db7070; */
-  padding: 2rem;
+  padding-top: 2rem;
 
  }
 
@@ -55,7 +55,7 @@ html,body{
  .Right p{
   Color: #fffde3;
   padding-top: 8vh;
-  padding-right: 10vw;
+  /* padding-right: 10vw; */
   text-align: right;
   line-height: 1.6em;
   letter-spacing: 0.4em;
@@ -75,7 +75,7 @@ html,body{
   height:100%;
   width: 100%;
   margin-top: 10px;
-  gap: 4rem ;
+  gap: 1.5rem ;
 }
 
  
@@ -135,13 +135,13 @@ html,body{
 .img-container{
   width: 100%;
   height: 100%;
-  border: red 2px solid;
+  /* border: red 2px solid; */
   
 }
 
  .disclaimer-right img{
-  object-fit: contain;
+  object-fit: cover;
   width: 100%;
-  height:100% ;
+  height:80% ;
 
  }
