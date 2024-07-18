@@ -7,6 +7,7 @@
 html,body{
   width: 100vw;
   height: 100vh;
+  background-color:  #000;
 }
 
  
@@ -20,7 +21,7 @@ html,body{
 
 .first-section  {
   display: flex;
-  background-color: black;
+  /* background-color: black; */
   height:200px ;
   width: 100%;
   gap: 5px;
@@ -29,35 +30,38 @@ html,body{
 
 .left {
   width: 50%;
+  height: 100%;
   /* background-color: #db7070; */
+
+ }
+
+ .left h1{
   font-family: "Gasoek one";
   font-weight: 400;
   color: #fffb00;
-  font-size: 35px;
+  font-size: 64px;
   text-transform: uppercase;
   letter-spacing: 3px;
+  
  }
 
  .Right{
-   background-color: #dfbaba;
+   /* background-color: #dfbaba; */
    width: 50%;
-     
-
- 
-  
+   height: 100%;
  }
 
  .Right p{
   Color: #fffde3;
-  padding-top: 10px;
-  padding-left: 10px;
+  padding-top: 6vh;
+  padding-right: 8vw;
   text-align: right;
-  word-spacing: 2px;
-  line-height: 2rem;
+  line-height: 1.6em;
+  letter-spacing: 0.4em;
   font-weight: 300;
   font-family: "ibm plex sans";
   font-size: 18px;
-  width: 18rem;
+  /* width: 18rem; */
 
 
  }
