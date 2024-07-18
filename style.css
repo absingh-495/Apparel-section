@@ -10,6 +10,38 @@ html,body{
   background-color:  #000;
 }
 
+/* scroller  */
+
+.text-wrapper{
+  margin-top: 1.5rem;
+  font-family: "Gasoek one" ;
+  display: flex;
+  justify-content: flex-start;
+  background: #fffb00;
+  overflow: hidden;
+ }
+
+.text-wrapper p{
+  font-size: 80px;
+  text-transform: uppercase;
+  color: #000;
+  white-space: nowrap;
+  padding: 0 6rem;
+  letter-spacing: 1px;
+  animation: move-rtl 6000ms linear infinite;
+}
+
+@keyframes move-rtl{
+  0%{
+    transform: translateX(0);
+  }
+ 
+  100%{
+    transform: translateX(-100%);
+  }
+}
+
+ 
  
 .main-container {
   /* background-color: red; */
