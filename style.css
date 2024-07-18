@@ -30,7 +30,7 @@ html,body{
 .left {
   width: 50%;
   height: 100%;
-  background-color: #db7070;
+  /* background-color: #db7070; */
   padding: 2rem;
 
  }
@@ -47,7 +47,7 @@ html,body{
  }
 
  .Right{
-   background-color: #dfbaba;
+   /* background-color: #dfbaba; */
    width:50%;
    height: 100%;
  }
@@ -75,20 +75,22 @@ html,body{
   height:100%;
   width: 100%;
   margin-top: 10px;
-  gap: 5px  ;
+  gap: 4rem ;
 }
 
  
 .disclaimer{
-  width: 50%;
+  display:block;
+  width: 40%;
   height: 100%;
-  background-color: blue;
+  /* background-color: blue; */
  }
 
  .disclaimer img{
   object-fit: cover;
-  width: 30vw;
-  height:50vh;
+  object-position:center ;
+  width: 100%;
+  height:50%;
 
  }
 
@@ -103,20 +105,31 @@ html,body{
   font-family: "ibm plex sans";
   font-size: 28px;
   color: #fffde3;
+  margin-top: 15px;
+  margin-bottom: 15px;
  
  }
 
  .disclaimer-brief p{
+  font-family: "ibm plex sans";
   color: #fffde3;
   font-size: 13px;
+ }
+
+ #para-2{
+  font-family: "ibm plex sans";
+  color: #b0b0ac;
+  margin-top: 12px;
+  font-style: italic;
+  /* opacity: 0.9; */
  }
 
 /* right  */
 
  .disclaimer-right{
-  width: 50vw;
+  width: 70%;
   height: 100vh;
-  background-color: pink;  
+  /* background-color: pink;   */
  }
 
 .img-container{
