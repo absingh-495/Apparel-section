@@ -72,7 +72,7 @@ html,body{
  .second-section  {
   /* background-color: greenyellow; */
   display:flex;
-  height:100%;
+  height: 100%;
   width: 100%;
   margin-top: 10px;
   gap: 1.5rem ;
