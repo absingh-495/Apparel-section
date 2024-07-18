@@ -29,28 +29,35 @@ html,body{
 
 .left {
   width: 50%;
-  background-color: #db7070;
+  /* background-color: #db7070; */
   font-family: "Gasoek one";
   font-weight: 400;
   color: #fffb00;
   font-size: 35px;
   text-transform: uppercase;
   letter-spacing: 3px;
-  
-  
  }
 
  .Right{
-   /* background-color: #dfbaba; */
-  font-family: "ibm plex sans";
+   background-color: #dfbaba;
+   width: 50%;
+     
+
+ 
+  
+ }
+
+ .Right p{
   Color: #fffde3;
-  font-size: 18px;
-  width: 18rem;
-  /* justify-content: flex-end; */
-  /* align-items: flex-end; */
-  /* padding-top: 10px;
-  padding-left: 10px; */
+  padding-top: 10px;
+  padding-left: 10px;
   text-align: right;
   word-spacing: 2px;
-  
+  line-height: 2rem;
+  font-weight: 300;
+  font-family: "ibm plex sans";
+  font-size: 18px;
+  width: 18rem;
+
+
  }
