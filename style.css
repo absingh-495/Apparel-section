@@ -9,23 +9,27 @@ html,body{
   height: 100vh;
 }
 
-.main-container{
+ 
+.main-container {
   /* background-color: red; */
-  display: flex;
+  /* display: flex; */
   width: 95%;
   height: 100vh;
   margin: auto;
 }
 
-.first-section {
+.first-section  {
+  display: flex;
   background-color: black;
   height:200px ;
   width: 100%;
-  align-items: center;
+  gap: 5px;
 
 }
 
-.left{
+.left {
+  width: 50%;
+  background-color: #db7070;
   font-family: "Gasoek one";
   font-weight: 400;
   color: #fffb00;
@@ -33,8 +37,20 @@ html,body{
   text-transform: uppercase;
   letter-spacing: 3px;
   
+  
  }
 
  .Right{
-
+   /* background-color: #dfbaba; */
+  font-family: "ibm plex sans";
+  Color: #fffde3;
+  font-size: 18px;
+  width: 18rem;
+  /* justify-content: flex-end; */
+  /* align-items: flex-end; */
+  /* padding-top: 10px;
+  padding-left: 10px; */
+  text-align: right;
+  word-spacing: 2px;
+  
  }
