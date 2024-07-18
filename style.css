@@ -10,8 +10,31 @@ html,body{
 }
 
 .main-container{
-  background-color: red;
+  /* background-color: red; */
+  display: flex;
   width: 95%;
   height: 100vh;
   margin: auto;
 }
+
+.first-section {
+  background-color: black;
+  height:200px ;
+  width: 100%;
+  align-items: center;
+
+}
+
+.left{
+  font-family: "Gasoek one";
+  font-weight: 400;
+  color: #fffb00;
+  font-size: 35px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  
+ }
+
+ .Right{
+
+ }
