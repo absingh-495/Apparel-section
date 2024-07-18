@@ -1,14 +1,14 @@
 <svg width="270" height="30" viewBox="0 0 270 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-<line x1="35" y1="14.3137" x2="115" y2="14.3137" stroke="white" stroke-width="4"/>
-<line x1="155" y1="14.3137" x2="235" y2="14.3137" stroke="white" stroke-width="4"/>
-<line x1="122.272" y1="26.2132" x2="144.9" y2="3.58581" stroke="white" stroke-width="4"/>
-<line x1="5.27219" y1="26.2132" x2="27.8996" y2="3.58581" stroke="white" stroke-width="4"/>
-<line x1="243.272" y1="26.2132" x2="265.9" y2="3.58581" stroke="white" stroke-width="4"/>
-<line x1="122.414" y1="3.89951" x2="145.042" y2="26.5269" stroke="white" stroke-width="4"/>
-<line x1="254" y1="30" x2="254" stroke="white" stroke-width="4"/>
-<path d="M16 30V0" stroke="white" stroke-width="4"/>
-<line x1="5.41421" y1="3.89951" x2="28.0416" y2="26.5269" stroke="white" stroke-width="4"/>
-<line x1="243.414" y1="3.89951" x2="266.042" y2="26.5269" stroke="white" stroke-width="4"/>
-<line y1="14.3137" x2="32" y2="14.3137" stroke="white" stroke-width="4"/>
-<line x1="238" y1="14.3137" x2="270" y2="14.3137" stroke="white" stroke-width="4"/>
+<line x1="35" y1="15.8137" x2="115" y2="15.8137" stroke="white"/>
+<line x1="155" y1="15.8137" x2="235" y2="15.8137" stroke="white"/>
+<line x1="123.333" y1="27.2739" x2="145.96" y2="4.64647" stroke="white"/>
+<line x1="6.33285" y1="27.2739" x2="28.9603" y2="4.64647" stroke="white"/>
+<line x1="244.333" y1="27.2739" x2="266.96" y2="4.64647" stroke="white"/>
+<line x1="121.354" y1="4.96017" x2="143.981" y2="27.5876" stroke="white"/>
+<line x1="255.5" y1="30" x2="255.5" stroke="white"/>
+<path d="M16 30V0" stroke="white"/>
+<line x1="4.35355" y1="4.96017" x2="26.981" y2="27.5876" stroke="white"/>
+<line x1="242.354" y1="4.96017" x2="264.981" y2="27.5876" stroke="white"/>
+<line y1="15.8137" x2="32" y2="15.8137" stroke="white"/>
+<line x1="238" y1="15.8137" x2="270" y2="15.8137" stroke="white"/>
 </svg>
