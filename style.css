@@ -50,7 +50,7 @@ html,body{
   width: 85%;
   height: 100%;
   margin: auto;
-}
+ }
 
 .first-section  {
   display: flex;
@@ -89,7 +89,7 @@ html,body{
   left: 25.5rem;
   top: 12.5rem;
   display: flex;
-  align-items: center;
+  /* align-items: center; */
  }
 
  .Right{
