@@ -79,9 +79,10 @@ html,body{
   
  }
 
-.horizontal-line{
+.standout{
   display: flex;
   padding-top: 2.5rem;
+
 }
 
 .apparel{
