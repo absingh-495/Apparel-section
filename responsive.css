@@ -105,20 +105,17 @@
 
    #second-1{
     padding-top: 3vh;
-   }
+    height: auto;
+
+    }
 
   .third-sec-left, .third-sec-right {
     width: 100%;
   }
 
-  .third-sec-left img, .third-sec-right img {
-    height: auto;
-  }
-  
-
 #third-2{
   height: auto;
   padding-top: 3vh;
-  display: none;
+  /* display: none; */
 }
  
