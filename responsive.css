@@ -75,15 +75,13 @@
     font-size: 16px;
   }
 
-
   .disclaimer-brief br{
     display: none;
   }
   
   .disclaimer img, .disclaimer-right img {
     height: auto;
-    /* width: 200px ; */
-  }
+   }
 
   /* Third Section */
   .third-section {
