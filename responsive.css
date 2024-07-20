@@ -5,6 +5,11 @@
     margin: auto;
    }
 
+   .text-wrapper p{
+    font-size: 35px;
+
+   }
+
 
   /* First Section */
   .first-section {
