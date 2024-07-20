@@ -60,15 +60,14 @@
     height: fit-content;
   }
 
-  .disclaimer-brief h4,p{
-    text-align: center;
-  }
   .disclaimer-brief h4{
     font-size:30px ;
+    text-align: center;
   }
 
   .disclaimer-brief p{
     font-size:16px ;
+    text-align: center;
   }
 
   #para-2{
