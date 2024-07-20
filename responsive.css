@@ -4,7 +4,7 @@
     height: 100%;
     margin: auto;
    }
-}
+
 
   /* First Section */
   .first-section {
@@ -32,6 +32,7 @@
     position: static;
     display: block;
    }
+
   .Right p {
     padding-top: 3vh;
     padding-bottom: 2vh;
@@ -106,5 +107,6 @@
   height: auto;
   padding-top: 3vh;
   /* display: none; */
+}
 }
  
