@@ -7,10 +7,10 @@
 html,body{
   width: 100vw;
   height: 100vh;
-  background-color:  #000;
+  /* background-color:  #000; */
 }
 
-/* scroller  */
+/* Scroller  */
 
 .text-wrapper{
   margin-top: 1.5rem;
