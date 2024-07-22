@@ -8,6 +8,7 @@ html,body{
   width: 100vw;
   height: 100vh;
   background-color:  #000;
+  overflow-x: hidden;
 }
 
 /* Scroller  */
@@ -43,26 +44,22 @@ html,body{
 }
  
 .main-container {
-  /* background-color: red; */
-  /* display: flex; */
   width: 85%;
   height: 100%;
   margin: auto;
- }
+  }
 
 .first-section  {
   display: flex;
   height:200px ;
   width: 100%;
-  /* gap: 5px; */
-
 }
 
 .left {
   width: 50%;
   height: 100%;
-  /* background-color: #db7070; */
   padding-top: 2rem;
+  font-family: "Gasoek one";
 
  }
 
@@ -72,27 +69,19 @@ html,body{
   color: #fffb00;
   font-size: 64px;
   text-transform: uppercase;
-  line-height:9vh;
-  /* letter-spacing: 3px; */
-  
+  line-height:9vh;  
  }
 
-.standout{
+.apparel-container{
   display: flex;
-  padding-top: 2.5rem;
-
 }
 
-.apparel{
-  position: absolute;
-  left: 25.5rem;
-  top: 12.5rem;
-  display: flex;
-  /* align-items: center; */
+.line-img{
+  display: grid;
+  place-items: center;
  }
-
+ 
  .Right{
-   /* background-color: #dfbaba; */
    width:50%;
    height: 100%;
  }
@@ -100,35 +89,30 @@ html,body{
  .Right p{
   Color: #fffde3;
   padding-top: 8vh;
-  /* padding-right: 10vw; */
   text-align: right;
   line-height: 1.6em;
   letter-spacing: 0.4em;
   font-weight: 300;
   font-family: "ibm plex sans";
   font-size: 15px;
-  /* width: 18rem; */
- }
+  }
  
  #text-bold{
   font-weight: bold;
  }
 
  .second-section  {
-  /* background-color: greenyellow; */
   display:flex;
   height: 70vh;
   width: 100%;
   margin-top: 10px;
   gap: 1.5rem ;
 }
-
  
 .disclaimer{
   display:block;
   width: 40%;
   height: 100%;
-  /* background-color: blue; */
  }
 
  .disclaimer img{
@@ -136,14 +120,11 @@ html,body{
   object-position:center ;
   width: 100%;
   height:57%;
-
  }
 
  .disclaimer-brief{
-  /* background-color:chocolate; */
   width: 100%;
   height: auto; 
- 
  }
 
  .disclaimer-brief h4{
@@ -151,9 +132,7 @@ html,body{
   font-size: 28px;
   color: #fffde3;
   margin-top: 15px;
-  margin-bottom: 15px;
-  /* width: 18em; */
- 
+  margin-bottom: 15px; 
  }
 
  .disclaimer-brief p{
@@ -168,7 +147,6 @@ html,body{
   color: #b0b0ac;
   margin-top: 12px;
   font-style: italic;
-
  }
 
 /* right  */
