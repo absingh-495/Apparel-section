@@ -60,7 +60,6 @@ html,body{
   height: 100%;
   padding-top: 2rem;
   font-family: "Gasoek one";
-
  }
 
 .left h1{
@@ -154,21 +153,17 @@ html,body{
  .disclaimer-right{
   width: 60%;
   height: 100vh;
-  /* background-color: pink;   */
  }
 
 .img-container{
   width: 100%;
-  height: 100%;
-  /* border: red 2px solid; */
-  
+  height: 100%;  
 }
 
  .disclaimer-right img{
   object-fit: cover;
   width: 100%;
   height:70% ;
-
  }
 
  /* third section  */
@@ -176,14 +171,12 @@ html,body{
  .third-section{
   margin-top: 1.5rem;
   display: flex;
-   /* background-color: grey; */
-   width: 100%;
-   height: 100%;
-   gap: 1.5rem;
+  width: 100%;
+  height: 100%;
+  gap: 1.5rem;
  }
 
  .third-sec-left{
-  /* background-color: red; */
   width: 60%;
   height: 100%;
  }
@@ -196,7 +189,6 @@ html,body{
  }
 
  .third-sec-right{
-  /* background-color: yellow;   */
   width: 40%;
   height: 100%;
  }
