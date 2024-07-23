@@ -163,17 +163,8 @@ html,body{
   object-fit: cover;
   width: 100%;
   height:70% ;
-  transition: transform 0.2s linear;
- }
-
- #img-first{
-  transition: transform 0.2s linear ;
- }
-
- #img-first:hover{
-  transform: scale(1);
- }
-
+  }
+ 
  /* third section  */
 
  .third-section{
